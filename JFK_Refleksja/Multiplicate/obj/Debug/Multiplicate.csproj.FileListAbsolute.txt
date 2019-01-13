@@ -1,0 +1,9 @@
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\obj\Debug\Multiplicate.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\bin\Debug\Multiplicate.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\bin\Debug\Multiplicate.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\bin\Debug\Prism.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\bin\Debug\Prism.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\obj\Debug\Multiplicate.csprojAssemblyReference.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\obj\Debug\Multiplicate.csproj.CopyComplete
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\obj\Debug\Multiplicate.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Multiplicate\obj\Debug\Multiplicate.pdb

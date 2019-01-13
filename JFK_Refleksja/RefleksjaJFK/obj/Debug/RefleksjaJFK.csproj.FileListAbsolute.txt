@@ -1,0 +1,12 @@
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csprojAssemblyReference.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.Properties.Resources.resources
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csproj.GenerateResource.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\RefleksjaJFK.exe.config
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\RefleksjaJFK.exe
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\RefleksjaJFK.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\Prism.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\Prism.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csproj.CopyComplete
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.exe
+C:\Users\Msi\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.pdb

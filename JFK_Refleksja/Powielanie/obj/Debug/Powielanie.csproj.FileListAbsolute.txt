@@ -1,0 +1,8 @@
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\obj\Debug\Powielanie.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\bin\Debug\Powielanie.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\bin\Debug\Powielanie.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\bin\Debug\Prism.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\bin\Debug\Prism.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\obj\Debug\Powielanie.csproj.CopyComplete
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\obj\Debug\Powielanie.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Powielanie\obj\Debug\Powielanie.pdb

@@ -1,0 +1,6 @@
+C:\Users\Msi\source\repos\RefleksjaJFK\Prism\bin\Debug\Prism.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Prism\bin\Debug\Prism.pdb
+C:\Users\Msi\source\repos\RefleksjaJFK\Prism\obj\Debug\Prism.csprojAssemblyReference.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\Prism\obj\Debug\Prism.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\RefleksjaJFK\Prism\obj\Debug\Prism.dll
+C:\Users\Msi\source\repos\RefleksjaJFK\Prism\obj\Debug\Prism.pdb
